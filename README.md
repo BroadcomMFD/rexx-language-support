@@ -1,3 +1,5 @@
+[![GitHub issues](https://img.shields.io/github/issues-raw/BroadcomMFD/rexx-language-support)](https://github.com/BroadcomMFD/rexx-language-support/issues)
+
 # LSP for Rexx
 
 The LSP for Rexx plugin leverages the language server protocol to provide syntax awareness, syntax coloring and autocomplete features for Rexx code. Files with the extensions `.rex`, `.rexx`, `.zrx` and `.rxj` are recognised as Rexx files.
