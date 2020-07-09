@@ -29,9 +29,9 @@ This feature checks for mistakes and errors in Rexx code. The syntax check featu
 Contrasting colors are used in displayed code for ease of identifying and distinguishing keywords, variables, operators, operands and comments.
 
 # Privacy Notice
-The extensions for Visual Studio Code developed by Broadcom Inc., including its corporate affiliates and subsidiaries, ("Broadcom") are provided free of charge, but in order to better understand and meet its users’ needs, Broadcom may collect, use, analyze and retain anonymous users’ metadata and interaction data, aggregate such data with similar usage data of other Broadcom customers.
+The extensions for Visual Studio Code developed by Broadcom Inc., including its corporate affiliates and subsidiaries, ("Broadcom") are provided free of charge, but in order to better understand and meet its users’ needs, Broadcom may collect, use, analyze and retain anonymous users’ metadata and interaction data, aggregate such data with similar usage data of other Broadcom customers. Please, find more detailed information in [License and Service Terms & Repository](https://www.broadcom.com/company/legal/licensing).
 
-For this data collection is used built-in Microsoft VS Code Telemetry, which can be disabled, if you do not want to send usage data.
+For this data collection is used built-in Microsoft VS Code Telemetry, which [can be disabled, if you do not want to send usage data](https://code.visualstudio.com/docs/getstarted/telemetry#_disable-telemetry-reporting).
 
 **Current release of REXX Language Support will collect anonymous data for the following events:**
 * Activation of this VS Code extension
