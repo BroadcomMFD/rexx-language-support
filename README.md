@@ -1,4 +1,5 @@
 [![GitHub issues](https://img.shields.io/github/issues-raw/BroadcomMFD/rexx-language-support)](https://github.com/BroadcomMFD/rexx-language-support/issues)
+[![slack](https://img.shields.io/badge/chat-on%20Slack-blue)](https://join.slack.com/t/che4z/shared_invite/enQtNzk0MzA4NDMzOTIwLWIzMjEwMjJlOGMxNmMyNzQ1NWZlMzkxNmQ3M2VkYWNjMmE0MGQ0MjIyZmY3MTdhZThkZDg3NGNhY2FmZTEwNzQ)
 
 # LSP for Rexx
 
