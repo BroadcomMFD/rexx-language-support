@@ -19,6 +19,8 @@ Autocomplete speeds up the coding process by suggesting the most likely keywords
 
 ![Autocomplete](/images/rexx-autocomplete.gif)
 
+You can configure autocomplete to suggest keywords in lower case, upper case, title case, or detect the case automatically from other keywords in the code. Go to the extension settings and set the **rexx-lsp.keyword.textcase** variable.
+
 ### Syntax Check
 
 This feature checks for mistakes and errors in Rexx code. The syntax check feature reviews the whole content of the code and underlines any errors.
@@ -34,7 +36,7 @@ The extensions for Visual Studio Code developed by Broadcom Inc., including its 
 
 For this data collection is used built-in Microsoft VS Code Telemetry, which [can be disabled, if you do not want to send usage data](https://code.visualstudio.com/docs/getstarted/telemetry#_disable-telemetry-reporting).
 
-**The current release of REXX Language Support collects anonymous data for the following events:**
+**The current release of Rexx Language Support collects anonymous data for the following events:**
 * Activation of this VS Code extension
 * Use of autocomplete feature
 * Count of lines of opened REXX file (Performance)
